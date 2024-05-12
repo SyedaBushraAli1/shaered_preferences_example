@@ -1,4 +1,8 @@
-# untitled
+# preferences
+
+![WhatsApp Image 2024-05-12 at 10 25 06 AM (1)](https://github.com/SyedaBushraAli1/shaered_preferences_example/assets/168065302/7f0e6eef-bb02-449f-a04d-dbab93200170)
+![WhatsApp Image 2024-05-12 at 10 25 06 AM](https://github.com/SyedaBushraAli1/shaered_preferences_example/assets/168065302/3a8db2c6-d215-47ba-b7ec-03fe221e275e)
+
 
 A new Flutter project.
 
